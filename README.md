@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-jahidulislam.dev-0ea5e9.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidulislam.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Total Skills](https://img.shields.io/badge/Total%20Skills-126%20Specialized-brightgreen.svg?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Antigravity%20%7C%20Claude%20Code%20%7C%20Cursor-orange.svg?style=for-the-badge)]()
