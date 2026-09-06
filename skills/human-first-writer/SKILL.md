@@ -1,8 +1,8 @@
 ---
 name: human-first-writer
-description: "Use when the user asks to write natural, human-first, high-converting SEO content, articles, service pages, or local landing pages that completely eliminate AI slop, formulaic rhythms, and synthetic markers. Grounded in Wikipedia's Signs of AI Writing and empirical detection research. Trigger on: write human content, human-first writing, remove AI patterns, natural SEO article, write without sounding like AI, anti-AI slop content."
+description: "Use when the user asks to write natural, human-first, high-converting SEO content, articles, service pages, or local landing pages that completely eliminate AI slop, formulaic rhythms, and synthetic markers. Automatically outputs deliverables into structured markdown (.md) documents with SEO Title, Meta Description, and Focus Keywords. Grounded in Wikipedia's Signs of AI Writing and empirical detection research. Trigger on: write human content, human-first writing, remove AI patterns, natural SEO article, write without sounding like AI, anti-AI slop content."
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
   author: "Antigravity AI"
   discipline: "content-engineering"
 ---
@@ -10,6 +10,34 @@ metadata:
 # Human-First Content Writer (Wikipedia-Grounded Anti-Slop System)
 
 A production-grade content writing framework engineered to eliminate machine-learning generation artifacts, predictable syntactic rhythms, and synthetic fluff. Built upon empirical findings from Wikipedia's *Signs of AI Writing* and academic AI detection analysis.
+
+---
+
+## 📌 Mandatory File Delivery & Metadata Contract
+
+Whenever writing or drafting content, this skill **MUST**:
+1. **Write to a Markdown File**: Output the complete, production-ready deliverable into a dedicated `.md` file (e.g., `./content/<keyword-slug>.md` or workspace path) using file creation tools.
+2. **Include Mandatory Metadata Header**: Prepend every document with structured frontmatter and visual summary:
+
+```markdown
+---
+title: "[SEO-Optimized Title | Angle & Scope]"
+meta_description: "[145-160 characters with primary entity, direct value, and practical CTA]"
+focus_keyword: "[Primary Focus Keyword]"
+secondary_keywords: ["[Secondary Keyword 1]", "[Secondary Keyword 2]", "[Entity 3]"]
+search_intent: "Informational | Commercial | Transactional | Navigational"
+word_count: [Target Word Count]
+date: "YYYY-MM-DD"
+file_path: "./content/<keyword-slug>.md"
+---
+
+# [H1 Title Matching the Target SEO Angle]
+
+**Focus Keyword**: `[Primary Focus Keyword]`  
+**Meta Description**: *[145-160 Char Meta Description]*  
+
+---
+```
 
 ---
 
@@ -53,7 +81,7 @@ A production-grade content writing framework engineered to eliminate machine-lea
 ## The 6-Layer Human-First Writing Pipeline
 
 ```
-[Layer 1: Reality-First Research]
+[Layer 1: Reality-First Research & Metadata Mapping]
        │
        ▼
 [Layer 2: Hard Specificity & Evidence Boundaries]
@@ -68,14 +96,13 @@ A production-grade content writing framework engineered to eliminate machine-lea
 [Layer 5: Intent & Entity-Driven SEO (Zero Keyword Stuffing)]
        │
        ▼
-[Layer 6: Adversarial Self-Audit Pass]
+[Layer 6: Adversarial Self-Audit & .md File Generation]
 ```
 
-### Layer 1: Reality-First Research
-- **No generic setups.** Before drafting, identify:
-  - Exact audience pain points (not abstract benefits).
-  - Concrete domain terms, tools, materials, codes, or regulations.
-  - Local landmarks, jurisdictions, or verifiable case constraints (for Local SEO).
+### Layer 1: Reality-First Research & Metadata Mapping
+- Map primary focus keyword, search intent, and secondary entities.
+- Prepare frontmatter metadata: SEO Title, Meta Description (145-160 chars), Focus Keyword.
+- Identify concrete domain terms, tools, materials, codes, or regulations.
 
 ### Layer 2: Hard Specificity & Evidence Boundaries
 - **Anti-Vagueness Rule:** Never state an outcome without the mechanism.
@@ -99,44 +126,16 @@ A production-grade content writing framework engineered to eliminate machine-lea
 - Naturally integrate Wikidata/schema entities rather than repeating exact-match keywords.
 - Structure headings (`H2`, `H3`) as clear operational answers, not philosophical questions.
 
-### Layer 6: Adversarial Self-Audit Pass
+### Layer 6: Adversarial Self-Audit Pass & File Generation
 Run every draft through the **Wikipedia Signs Audit Checklist**:
 1. Does any paragraph contain a "not only X, but also Y" sentence? (If yes, rewrite).
 2. Are there triplet adjective lists? (If yes, reduce to 1 concrete descriptor).
 3. Are there more than 2 em-dashes across the entire article? (If yes, replace with periods).
 4. Does the conclusion summarize what was already stated? (If yes, replace with next steps or cut).
 5. Does every claim have an operational mechanism attached? (If no, add evidence or delete claim).
-
----
-
-## Deliverable Templates
-
-### 1. High-Converting Local Service Page Skeleton
-```markdown
-# [Primary Service] in [City/Neighborhood]: Scope, Standards & Costs
-
-[Direct 2-sentence summary: What is provided, who is eligible, and turnaround timeline]
-
-## Exact Scope of Work
-- Step 1: [Initial diagnostic/prep work with specific equipment/standards]
-- Step 2: [Execution details with materials, codes, or tools]
-- Step 3: [Verification, inspection, or delivery criteria]
-
-## Local Regulations & Site Factors in [City]
-[Specific neighborhood conditions, regional soil/weather/code requirements]
-
-## Transparent Cost Ranges & Project Timelines
-[Table: Project Type | Typical Scope | Estimated Turnaround | Cost Drivers]
-
-## Common Misconceptions & Red Flags
-[Direct critique of low-quality competitor work or obsolete practices]
-
-## Frequently Asked Questions
-### [Practical question with immediate numbers/facts]
-[Direct answer without generic introductory fluff]
-```
+6. **File Delivery Check**: Write the complete markdown deliverable to disk and confirm path to user.
 
 ---
 
 ## Operating Command
-When activated, this skill executes the draft in one go without meta-commentary, followed by the verification checklist confirming zero AI-slop violations.
+When activated, this skill generates the complete deliverable into a `.md` file with Title, Meta Description, and Focus Keywords, presents the content to the user, and confirms zero AI-slop violations.

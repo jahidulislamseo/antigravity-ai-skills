@@ -28,6 +28,12 @@ Whenever the user gives any instruction, task, or request, you MUST strictly fol
 - **No Fake Percentages**: Do NOT claim arbitrary metrics (e.g. "rankings will increase by 30%").
 - **Missing Data Handling**: If data or local context is unavailable, state: `"Data Unavailable - Required: [Specific metric/file]"`.
 
-## 3. Autonomous Skill Chaining & Content Execution
+## 3. Autonomous Skill Chaining & Content File Delivery
 - For ANY content writing, copywriting, service page, blog, or landing page task, automatically load and chain the `content-writer` and `human-first-writer` skills.
+- **Mandatory File Delivery**: Always output content deliverables directly into a dedicated markdown (`.md`) file on disk (e.g., `./content/<keyword-slug>.md` or workspace path).
+- **Mandatory Metadata Block**: Always prepend the file with:
+  1. **Title** (SEO-optimized H1 & Title tag)
+  2. **Meta Description** (145-160 characters with entity + value proposition + CTA)
+  3. **Focus Keyword** (Primary focus keyword)
+  4. **Secondary / LSI Keywords**
 - Autonomously determine and load relevant skills based on domain (Content Engineering, Local SEO, Web Dev, Security, Technical SEO, Architecture).
