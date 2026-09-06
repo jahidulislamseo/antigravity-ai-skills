@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-jahidulislam.dev-0ea5e9.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidulislam.dev)
+[![🌐 Interactive Skills Portal](https://img.shields.io/badge/🌐_Interactive_Portal-Live-0ea5e9.svg?style=for-the-badge)](https://jahidulislamseo.github.io/antigravity-ai-skills/)
+[![Website](https://img.shields.io/badge/Website-jahidulislam.dev-6366f1.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidulislam.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Total Skills](https://img.shields.io/badge/Total%20Skills-127%20Specialized-brightgreen.svg?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Antigravity%20%7C%20Claude%20Code%20%7C%20Cursor-orange.svg?style=for-the-badge)]()
