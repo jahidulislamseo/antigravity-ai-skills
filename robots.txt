@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jahidulislamseo.github.io/antigravity-ai-skills/sitemap.xml
