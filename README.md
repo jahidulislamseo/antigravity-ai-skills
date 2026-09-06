@@ -1,12 +1,12 @@
 # 🚀 Antigravity AI Skills & Local SEO Operating System
 
-> **Transform Claude Code, Antigravity IDE, Cursor, and AI Agents into an elite, 10-Year Experienced Senior Full-Stack Engineer and Local SEO Director. Includes 126 specialized autonomous skills, zero-assumption prompt architecture, and enterprise SEO frameworks.**
+> **Transform Claude Code, Antigravity IDE, Cursor, and AI Agents into an elite, 10-Year Experienced Senior Full-Stack Engineer and Local SEO Director. Includes 127 specialized autonomous skills, zero-assumption prompt architecture, and enterprise SEO frameworks.**
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-jahidulislam.dev-0ea5e9.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidulislam.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-126%20Specialized-brightgreen.svg?style=for-the-badge)]()
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-127%20Specialized-brightgreen.svg?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Antigravity%20%7C%20Claude%20Code%20%7C%20Cursor-orange.svg?style=for-the-badge)]()
 [![SEO Rating](https://img.shields.io/badge/SEO%20Rating-Enterprise%20Grade-purple.svg?style=for-the-badge)]()
 [![GitHub Stars](https://img.shields.io/github/stars/jahidulislamseo/antigravity-ai-skills?style=for-the-badge)](https://github.com/jahidulislamseo/antigravity-ai-skills/stargazers)
@@ -16,7 +16,7 @@
   <a href="#-1-click-instant-installation">Fast Install</a> •
   <a href="#-how-this-helps-you-real-world-benefits">How It Helps You</a> •
   <a href="#-the-permanent-3-step-execution-engine">3-Step Engine</a> •
-  <a href="#-the-126-skills-directory">Skills Directory</a> •
+  <a href="#-the-127-skills-directory">Skills Directory</a> •
   <a href="#-case-study--blueprint">Case Study</a>
 </p>
 
@@ -33,7 +33,7 @@ Most AI models give **superficial, textbook answers** when asked to code or audi
 - ❌ Inability to say *"I don't know"* when data is missing—resulting in fabricated claims.
 
 ### 🛡️ The Antigravity Solution: 10-Year Senior Rigor
-This repository installs a **complete autonomous operating system** into your AI agent with **126 specialized skills** and a strict **Zero-Assumption, Evidence-First Directive**. Your AI immediately shifts from a junior chatterbox into a seasoned Principal Engineer and Senior Local Search Consultant.
+This repository installs a **complete autonomous operating system** into your AI agent with **127 specialized skills** and a strict **Zero-Assumption, Evidence-First Directive**. Your AI immediately shifts from a junior chatterbox into a seasoned Principal Engineer and Senior Local Search Consultant.
 
 ---
 
@@ -46,7 +46,7 @@ git clone https://github.com/jahidulislamseo/antigravity-ai-skills.git && cd ant
 ```
 
 ### What happens automatically:
-1. All **126 skills** are safely installed into `~/.gemini/config/skills/`.
+1. All **127 skills** are safely installed into `~/.gemini/config/skills/`.
 2. The **3-Step Autonomous Workflow** & **Anti-AI Slop Rules** are permanently activated in `~/.gemini/config/GEMINI.md`.
 3. Works instantly across **Antigravity IDE**, **Claude Code**, and compatible agent hosts.
 
@@ -87,7 +87,7 @@ graph TD
 
 ---
 
-## 📚 The 126 Skills Directory
+## 📚 The 127 Skills Directory
 
 ### 📍 1. Local SEO, GBP & Reputation (39 Skills)
 * **Google Business Profile & 3-Pack:** `gbp-optimization`, `geogrid-analysis`, `service-area-seo`, `gbp-posts`, `gbp-suspension-recovery`, `gbp-api-automation`.
@@ -97,9 +97,9 @@ graph TD
 * **AI Search & Local GEO:** `ai-local-search` (Google AI Overviews, SearchGPT, Perplexity Local).
 * **Audits & Data Connectors:** `local-seo-audit`, `local-reporting`, `client-deliverables`, `localseodata-tool`, `local-falcon-tool`, `brightlocal-tool`, `whitespark-tool`, `dataforseo-tool`.
 
-### 🌐 2. Organic SEO, GEO & Content Intelligence (17 Skills)
+### 🌐 2. Organic SEO, GEO & Content Intelligence (18 Skills)
 * **Research & Gap Mapping:** `keyword-research`, `competitor-analysis`, `serp-analysis`, `content-gap-analysis`.
-* **Content Generation:** `content-writer` (CORE-EEAT compliant), `geo-content-optimizer`, `serp-markup-builder`, `page-play-builder` (pSEO & parasite plays).
+* **Content Generation & Anti-AI Slop:** `human-first-writer` (Wikipedia-grounded anti-slop & cadence engine), `content-writer` (CORE-EEAT & intent-driven), `geo-content-optimizer`, `serp-markup-builder`, `page-play-builder` (pSEO & parasite plays).
 * **Auditing & Tuning:** `content-quality-auditor`, `on-page-seo-checker`, `site-structure-optimizer`, `technical-seo-checker`, `domain-authority-auditor`, `rank-tracker`, `performance-monitor`, `offsite-signal-analyzer`, `entity-optimizer`.
 
 ### 💻 3. Full-Stack Software Engineering (67 Skills)

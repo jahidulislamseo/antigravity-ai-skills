@@ -18,7 +18,7 @@ echo "========================================================"
 mkdir -p "$SKILLS_DIR"
 mkdir -p "$RULES_DIR"
 
-echo "📂 Installing 126 specialized skills..."
+echo "📂 Installing 127 specialized skills..."
 cp -rn ./skills/* "$SKILLS_DIR/"
 
 echo "📜 Installing global directives and 3-step workflow rules..."
