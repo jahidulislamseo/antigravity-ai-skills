@@ -149,6 +149,179 @@ Weekly: reviews, Q&A, posts, edit monitoring. Monthly: photos, insights, hours c
 
 ---
 
+## Standard Master Business Dossier Format (Production Standard)
+Whenever generating a business research dossier, citation sheet, or GBP data handover, strictly output in this standardized structure:
+
+```text
+[Business Name (Exact Real-World or GBP Verified Name)]
+
+Business Category:
+[Primary Google Backend Category]
+
+Additional Categories:
+[Secondary Category 1]
+[Secondary Category 2]
+[Secondary Category 3]
+
+Business Address:
+[Full Street Address, City, State/Region, Postal Code, Country]
+Street: [Street Address / Unit / Entrance Details]
+City: [City]
+Neighborhood / Area: [District / Borough / Neighborhood]
+State / County: [State / County]
+Postal Code: [Postal / ZIP Code]
+Country: [Country]
+
+Phone Number:
+[International Format] (Local: [Local Format])
+
+Website (Primary GBP):
+[Live Website URL associated with GBP]
+
+Campaign Landing Page (Target UTM):
+[Landing Page with UTM tracking parameters]
+
+Appointment / Contact URL:
+[Booking or Contact Page URL]
+
+Email:
+[Official Business / Contact Email]
+
+Technical GBP Data:
+CID: [Google CID Number]
+Place ID: [Google Place ID]
+Business Profile ID: [Numeric Business Profile ID]
+Knowledge Graph ID: [/g/... ID]
+Latitude: [Exact GPS Latitude]
+Longitude: [Exact GPS Longitude]
+Google Business Profile Direct CID Link: https://maps.google.com/?cid=[CID]
+
+Company Registration:
+[Company House / Corporate Registration Number & Official Registered Name]
+
+Opening Date:
+[Verified Date or "Data Unavailable - Required: [...]"]
+
+Business Hours:
+Monday: [Time Range]
+Tuesday: [Time Range]
+Wednesday: [Time Range]
+Thursday: [Time Range]
+Friday: [Time Range]
+Saturday: [Time Range]
+Sunday: [Time Range]
+
+Payment Methods:
+[List of verified payment options: Cash, Credit Card, Debit Card, NFC, etc.]
+
+Listing Attributes:
+[Verified Google Listing Attributes grouped by Amenities, Crowd, Payments, Service Options]
+
+Tagline:
+[Concise, non-spammy business value proposition]
+
+BUSINESS DESCRIPTION
+[Human-first, mechanism-driven narrative description (350-750 words). Zero AI marker words (delve, tapestry, crucial, seamless, elevate, etc.). Zero negative parallelism ("not only X, but also Y"). Max 2 em-dashes across document. Detail real-world operational processes, equipment/machinery, certifications, and geographic corridors.]
+
+SERVICES
+[Bulleted list of concrete service offerings matching real-world capabilities and GBP service catalog]
+
+SERVICE AREAS
+[Bulleted list of verified micro-zones, postcodes/ZIPs, boroughs, and regions served]
+
+SOCIAL PROFILES
+Instagram: [URL]
+Facebook: [URL]
+LinkedIn: [URL]
+YouTube: [URL]
+TikTok: [URL]
+X (Twitter): [URL]
+Google Maps: https://maps.google.com/?cid=[CID]
+
+TOP KEYWORDS
+[Bulleted list of 20-30 hyper-local search intent keywords combining service + micro-neighborhood + intent (near me / urgent / same day / city)]
+```
+
+---
+
+## Google Business Profile (Before Implementation) Schema
+Whenever generating a client-facing Pre-Implementation Setup, GMB Proposal, or "Before Implementation" optimization roadmap for client sign-off, strictly use this comprehensive schema:
+
+```markdown
+# [Business Name] Google Business Profile (Before Implementation)
+I have completed an initial review of your Google Business Profile. Before starting the full GMB SEO optimization, below is a clear overview of the recommended setup and improvements. This structure is designed to improve Google Maps visibility, strengthen local ranking, and attract qualified [target audience/customers] across the [target geography/corridor]. Please confirm approval. Once approved, full GMB optimization will begin immediately.
+
+### Business Details (Top-level)
+Business Name: [Exact Registered Business Name]
+Primary Category: [Target Primary Category]
+Address: [Full Physical Address]
+Phone: [Primary Phone]
+Website: [Website URL / Dedicated Landing Page]
+
+### Primary Category
+[Primary Category Name]
+
+### Secondary Categories
+[Secondary Category 1]
+[Secondary Category 2]
+[Secondary Category 3]
+[Secondary Category 4]
+[Secondary Category 5]
+(No unrelated or misleading categories added—100% policy-safe)
+
+### Service Areas
+[List of cities, towns, boroughs, counties, major highway/transit corridors, regions]
+
+### Business Hours
+Monday: [Hours / Open 24 hours]
+Tuesday: [Hours / Open 24 hours]
+Wednesday: [Hours / Open 24 hours]
+Thursday: [Hours / Open 24 hours]
+Friday: [Hours / Open 24 hours]
+Saturday: [Hours / Open 24 hours]
+Sunday: [Hours / Open 24 hours]
+([Operational note, e.g. 24/7 gated facility with continuous camera surveillance])
+
+### Social Profiles
+Status: [Current status of public social media profiles]
+Please share your business social links (Facebook, Instagram, LinkedIn, Youtube, etc.) so we can connect them directly to your Google Business Profile to strengthen local authority and Google trust signals.
+
+### Attributes (Complete 8-Section Checklist)
+1. From the business (Disability-owned, Indigenous-owned, Women-owned, Veteran-owned, etc.)
+2. Accessibility (Wheelchair-accessible car park, entrance, seating, toilet, hearing loop)
+3. Amenities (Gender-neutral toilets, toilets, Wi-Fi)
+4. Children (Changing tables, nursing room, good for kids)
+5. Crowd (LGBTQ+ friendly, Transgender safe space)
+6. Parking (Free/paid lot, on-site parking, free/paid street parking)
+7. Payments (Cash only, cheques, credit cards: Amex, China Union Pay, Diners, Discover, JCB, Mastercard, VISA; debit cards, NFC mobile payments)
+8. Service options (On-site services, kerbside pickup, delivery, online appointments)
+
+### GMB Description (750 Characters Maximum)
+Overview: [Concise 3-5 sentence description with physical location, landmark/highway proximity, primary commercial offerings, differentiators, and Google inquiry CTA]
+
+### Services Catalog (with Forensic Descriptions)
+[20 to 30 custom services matching the industry, each with a 2-3 sentence technical description of specifications, machinery, turnarounds, dimensions, and customer benefits]
+
+### GMB Keywords & Phrases (Internal Use)
+[20 to 30 localized high-intent keywords: "[service] near me", "[service] [city]", "[urgent service] [corridor]"]
+(No keyword stuffing — integrated naturally across profile metadata)
+
+### 30-Day GMB Post Calendar (10 Posts with Built-in Q&A Pairs)
+[10 structured Google posts (150-200 words each) covering different service angles, local highway/transit connections, equipment safety, and seasonal needs. Crucially, each post includes 2 Built-in Q&A pairs to feed Google's semantic index and AI search models]
+
+Post 01 to Post 10:
+- Headline & Service Focus Angle
+- 150-200 word body copy with exact address & Call CTA
+- Q&A Pair 1 (Customer question + authoritative answer)
+- Q&A Pair 2 (Technical question + authoritative answer)
+
+### Status
+This is a demo / pre-implementation GMB setup for [Business Name].
+Once approved, the profile can be fully optimized for local ranking, map pack authority, and direct inquiries.
+```
+
+---
+
 ## Diagnosing Map Pack Issues
 
 **Not showing at all**: Verified? Suspended? Category correct? Location page exists? Website linked?

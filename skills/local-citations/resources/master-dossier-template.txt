@@ -1,0 +1,87 @@
+[Business Name (Exact Real-World or GBP Verified Name)]
+
+Business Category:
+[Primary Google Backend Category]
+
+Additional Categories:
+[Secondary Category 1]
+[Secondary Category 2]
+[Secondary Category 3]
+
+Business Address:
+[Full Street Address, City, State/Region, Postal Code, Country]
+Street: [Street Address / Unit / Entrance Details]
+City: [City]
+Neighborhood / Area: [District / Borough / Neighborhood]
+State / County: [State / County]
+Postal Code: [Postal / ZIP Code]
+Country: [Country]
+
+Phone Number:
+[International Format] (Local: [Local Format])
+
+Website (Primary GBP):
+[Live Website URL associated with GBP]
+
+Campaign Landing Page (Target UTM):
+[Landing Page with UTM tracking parameters]
+
+Appointment / Contact URL:
+[Booking or Contact Page URL]
+
+Email:
+[Official Business / Contact Email]
+
+Technical GBP Data:
+CID: [Google CID Number]
+Place ID: [Google Place ID]
+Business Profile ID: [Numeric Business Profile ID]
+Knowledge Graph ID: [/g/... ID]
+Latitude: [Exact GPS Latitude]
+Longitude: [Exact GPS Longitude]
+Google Business Profile Direct CID Link: https://maps.google.com/?cid=[CID]
+
+Company Registration:
+[Company House / Corporate Registration Number & Official Registered Name]
+
+Opening Date:
+[Verified Date or "Data Unavailable - Required: [...]"]
+
+Business Hours:
+Monday: [Time Range]
+Tuesday: [Time Range]
+Wednesday: [Time Range]
+Thursday: [Time Range]
+Friday: [Time Range]
+Saturday: [Time Range]
+Sunday: [Time Range]
+
+Payment Methods:
+[List of verified payment options: Cash, Credit Card, Debit Card, NFC, etc.]
+
+Listing Attributes:
+[Verified Google Listing Attributes grouped by Amenities, Crowd, Payments, Service Options]
+
+Tagline:
+[Concise, non-spammy business value proposition]
+
+BUSINESS DESCRIPTION
+[Human-first, mechanism-driven narrative description (350-750 words). Zero AI marker words (delve, tapestry, crucial, seamless, elevate, etc.). Zero negative parallelism ("not only X, but also Y"). Max 2 em-dashes across document. Detail real-world operational processes, equipment/machinery, certifications, and geographic corridors.]
+
+SERVICES
+[Bulleted list of concrete service offerings matching real-world capabilities and GBP service catalog]
+
+SERVICE AREAS
+[Bulleted list of verified micro-zones, postcodes/ZIPs, boroughs, and regions served]
+
+SOCIAL PROFILES
+Instagram: [URL]
+Facebook: [URL]
+LinkedIn: [URL]
+YouTube: [URL]
+TikTok: [URL]
+X (Twitter): [URL]
+Google Maps: https://maps.google.com/?cid=[CID]
+
+TOP KEYWORDS
+[Bulleted list of 20-30 hyper-local search intent keywords combining service + micro-neighborhood + intent (near me / urgent / same day / city)]

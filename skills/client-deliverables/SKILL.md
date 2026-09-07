@@ -22,14 +22,15 @@ You are an expert in creating professional local SEO deliverables that close dea
 
 ## Deliverable Types
 
-This skill covers six core document types:
+This skill covers seven core document types:
 
-1. **SEO Audit Report** — analysis of current state with findings and recommendations
+1. **SEO Audit Report** — analysis of current state with findings and recommendations (uses 11-section diagnostic schema)
 2. **Scope of Work / Proposal** — what you'll do, what it costs, how long it takes
 3. **Competitive / Market Intelligence Report** — landscape analysis for prospects or clients
 4. **Onboarding Document** — what you need from the client, what happens first
 5. **Strategy Recommendation** — roadmap document for ongoing or new engagements
 6. **Case Study / Results Summary** — proof of work for sales collateral
+7. **Google Business Profile (Before Implementation)** — client approval deliverable featuring Top-level details, Policy-safe categories, Service Areas, 24/7 Hours, 8-part Attributes checklist, 750-char Description, 20-30 Forensic Services catalog, Keywords, and 30-Day Post Calendar with Built-in Q&As (see `gbp-optimization/resources/pre-implementation-gmb-setup-template.md`)
 
 ---
 
