@@ -1,13 +1,13 @@
 # 🚀 Antigravity AI Skills & Local SEO Operating System
 
-> **Transform Claude Code, Antigravity IDE, Cursor, and AI Agents into an elite, 10-Year Experienced Senior Full-Stack Engineer and Local SEO Director. Includes 127 specialized autonomous skills, zero-assumption prompt architecture, and enterprise SEO frameworks.**
+> **Transform Claude Code, Antigravity IDE, Cursor, and AI Agents into an elite, 10-Year Experienced Senior Full-Stack Engineer and Local SEO Director. Includes 128 specialized autonomous skills, zero-assumption prompt architecture, and enterprise SEO frameworks.**
 
 <div align="center">
 
 [![🌐 Interactive Skills Portal](https://img.shields.io/badge/🌐_Interactive_Portal-Live-0ea5e9.svg?style=for-the-badge)](https://jahidulislamseo.github.io/antigravity-ai-skills/)
 [![Website](https://img.shields.io/badge/Website-jahidulislam.dev-6366f1.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahidulislam.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-127%20Specialized-brightgreen.svg?style=for-the-badge)]()
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-128%20Specialized-brightgreen.svg?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Antigravity%20%7C%20Claude%20Code%20%7C%20Cursor-orange.svg?style=for-the-badge)]()
 [![SEO Rating](https://img.shields.io/badge/SEO%20Rating-Enterprise%20Grade-purple.svg?style=for-the-badge)]()
 [![GitHub Stars](https://img.shields.io/github/stars/jahidulislamseo/antigravity-ai-skills?style=for-the-badge)](https://github.com/jahidulislamseo/antigravity-ai-skills/stargazers)
@@ -17,7 +17,7 @@
   <a href="#-1-click-instant-installation">Fast Install</a> •
   <a href="#-how-this-helps-you-real-world-benefits">How It Helps You</a> •
   <a href="#-the-permanent-3-step-execution-engine">3-Step Engine</a> •
-  <a href="#-the-127-skills-directory">Skills Directory</a> •
+  <a href="#-the-128-skills-directory">Skills Directory</a> •
   <a href="#-case-study--blueprint">Case Study</a>
 </p>
 
@@ -34,7 +34,7 @@ Most AI models give **superficial, textbook answers** when asked to code or audi
 - ❌ Inability to say *"I don't know"* when data is missing—resulting in fabricated claims.
 
 ### 🛡️ The Antigravity Solution: 10-Year Senior Rigor
-This repository installs a **complete autonomous operating system** into your AI agent with **127 specialized skills** and a strict **Zero-Assumption, Evidence-First Directive**. Your AI immediately shifts from a junior chatterbox into a seasoned Principal Engineer and Senior Local Search Consultant.
+This repository installs a **complete autonomous operating system** into your AI agent with **128 specialized skills** and a strict **Zero-Assumption, Evidence-First Directive**. Your AI immediately shifts from a junior chatterbox into a seasoned Principal Engineer and Senior Local Search Consultant.
 
 ---
 
@@ -47,7 +47,7 @@ git clone https://github.com/jahidulislamseo/antigravity-ai-skills.git && cd ant
 ```
 
 ### What happens automatically:
-1. All **127 skills** are safely installed into `~/.gemini/config/skills/`.
+1. All **128 skills** are safely installed into `~/.gemini/config/skills/`.
 2. The **3-Step Autonomous Workflow** & **Anti-AI Slop Rules** are permanently activated in `~/.gemini/config/GEMINI.md`.
 3. Works instantly across **Antigravity IDE**, **Claude Code**, and compatible agent hosts.
 
@@ -88,7 +88,7 @@ graph TD
 
 ---
 
-## 📚 The 127 Skills Directory
+## 📚 The 128 Skills Directory
 
 ### 📍 1. Local SEO, GBP & Reputation (39 Skills)
 * **Google Business Profile & 3-Pack:** `gbp-optimization`, `geogrid-analysis`, `service-area-seo`, `gbp-posts`, `gbp-suspension-recovery`, `gbp-api-automation`.
@@ -110,7 +110,8 @@ graph TD
 * **Cloud, DevOps & Databases:** `kubernetes-specialist`, `terraform-engineer`, `cloud-architect`, `devops-engineer`, `sre-engineer`, `postgres-pro`, `database-optimizer`.
 * **Architecture, Security & Quality:** `architecture-designer`, `microservices-architect`, `api-designer`, `graphql-architect`, `secure-code-guardian` (OWASP), `security-reviewer`, `test-master`, `debugging-wizard`, `code-reviewer`.
 
-### 📊 4. Visual Reporting & Presentations (3 Skills)
+### 📊 4. Visual Reporting, Academic Publishing & Prompts (4 Skills)
+* **`academic-thesis-typesetter`**: Formats academic dissertations and MS/MD medical theses into certified, publish-ready DOCX and PDF deliverables with 4-way centered chapter divider sheets, 1.5 pt solid rules, pure-black typography (#000000), inline non-overlapping figures, dual Roman/Arabic pagination, and automated Table of Contents synchronization with Microsoft Word AppleScript PDF compilation.
 * **`agency-visual-report`**: Generates standalone interactive HTML dashboards and print-ready PDF client deliverables with color-coded geogrid heatmaps and SVG charts.
 * **`powerpoint-keynote-presentation`**: Prepares persuasive, slide-by-slide executive pitch deck narrative outlines for client meetings.
 * **`expert-prompt-architect`**: Transforms simple requests into 10-year senior prompts.

@@ -1,0 +1,41 @@
+{
+  "institution": "National Institute of Traumatology and Orthopaedic Rehabilitation (NITOR) / BSMMU",
+  "degree": "Master of Surgery (MS) in Orthopaedic Surgery",
+  "typography": {
+    "font_family": "Times New Roman",
+    "color": "#000000",
+    "title_size_pt": 20,
+    "candidate_name_size_pt": 20,
+    "chapter_divider_size_pt": 20,
+    "chapter_heading_size_pt": 16,
+    "heading_1_size_pt": 14,
+    "heading_2_size_pt": 12,
+    "body_size_pt": 12,
+    "body_line_spacing": 1.5,
+    "body_first_line_indent_in": 0.5,
+    "table_size_pt": 11,
+    "footer_size_pt": 11
+  },
+  "chapter_divider": {
+    "alignment": "center",
+    "vertical_alignment": "center",
+    "case": "UPPERCASE",
+    "top_border": {
+      "val": "single",
+      "sz": "12",
+      "space": "18",
+      "color": "000000"
+    },
+    "bottom_border": {
+      "val": "single",
+      "sz": "12",
+      "space": "18",
+      "color": "000000"
+    }
+  },
+  "pagination": {
+    "section_1_front_matter": "lowerRoman",
+    "section_2_main_body": "decimal",
+    "main_body_start": 1
+  }
+}
